@@ -16,7 +16,7 @@ This project is a simple To-Do List web application built using Node.js, Express
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/capstone-todo-list.git
+    git clone https://github.com/RUBBOSS/capstone-todo-list.git
     cd capstone-todo-list
     ```
 
