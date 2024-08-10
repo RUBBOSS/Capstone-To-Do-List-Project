@@ -72,6 +72,3 @@ This project is a simple To-Do List web application built using Node.js, Express
 - **Edit a task:** Click the pencil icon next to a task to edit its title. Press the checkmark to save the changes.
 - **Delete a task:** Check the checkbox next to a task to delete it.
 
-## License
-
-This project is licensed under the ISC License.
